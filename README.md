@@ -1,5 +1,5 @@
 # DSCI-Forest-Cover
-Maryville capstone project using Python and the Kaggle Forest Cover data set
+Maryville capstone project using Python and the Kaggle Forest Cover data set. [Working notebooks](https://www.kaggle.com/code/alisonhawke/dsci-598-final-submission) available on Kaggle's website.
 
 Jupyter notebook files showing a six week solo project using the Kaggle [Forest Cover data set](https://www.kaggle.com/competitions/forest-cover-type-prediction). The goal was to produce models and validate them against the Kaggle competition.
 
